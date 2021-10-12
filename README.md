@@ -5,5 +5,5 @@ Describes all  the ways to pull request and merge
  - create a branch
  - name the branch with extension (.r for R,py for Python)
  - commit the changes
- - pull requests or compare button is clicked 
+ - pull requests or compareand pull  button is clicked 
  - finaly merge it
